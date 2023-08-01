@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/:url*", "destination": "https://poe.com/:url*" }
+    { "source": "/:url*", "destination": "https://www.poe.com/:url*" }
   ]
 }
