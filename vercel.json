@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/:url*", "destination": "https://128.242.250.148:443/:url*" }
+    { "source": "/:url*", "destination": "https://poe.com/:url*" }
   ]
 }
